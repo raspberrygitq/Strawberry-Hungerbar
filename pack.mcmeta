@@ -1,7 +1,9 @@
 {
   "pack": {
     "pack_format": 15,
-    "supported_formats": [15,64],
+    "supported_formats": [ 15, 69 ],
+    "min_format": [ 15, 0 ],
+    "max_format": [ 69, 0 ],
     "description": "Strawberry Hunger Bar resources"
   }
 }
